@@ -1,0 +1,22 @@
+.anythingbutheader {
+  position: fixed;
+  height: 10%;
+  width: 100%;
+  background: orange;
+  color: white;
+  overflow: auto;
+  margin-bottom: 10%;
+}
+
+li {
+  display: inline;
+  font-size: 20px;
+  margin-left: 10%;
+  margin-right: 5%;
+
+}
+
+.info {
+  margin-left: 10%;
+  margin-right: 10%;
+}
